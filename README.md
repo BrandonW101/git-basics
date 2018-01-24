@@ -325,13 +325,12 @@ Run:
 You just rolled back your project to a previous commit. 
 
 TODO
-## Removing and moving files https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
+## Removing and Moving files 
+https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
 
 ## Resources
-https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
-https://www.codecademy.com/learn/learn-git
-https://www.atlassian.com/git
-http://rogerdudler.github.io/git-guide/
-
-
+* https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+* https://www.codecademy.com/learn/learn-git
+* https://www.atlassian.com/git
+* http://rogerdudler.github.io/git-guide/
