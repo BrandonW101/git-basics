@@ -274,7 +274,7 @@ To switch back, run:
 `git checkout master`
  
 ### Revert
-We can _checkout_ earlier commits, but we can also revert and reset to earlier commits, too. To index.html, under your <h1> add:
+We can _checkout_ earlier commits, but we can also revert and reset to earlier commits, too. To index.html, under your `<h1>` add:
  
 `<h2>Learning Revert</h2>`
  
