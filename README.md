@@ -302,7 +302,7 @@ You can edit the message if you want. Otherwise, commit the change by entering:
 Now take a look at index.html. It _reverted_ to the previous commit. But if you run `git log`, you will see that we created a new commit from the previous commit. 
  
 ### Reset
-To index.html, under your <h1> add:
+To index.html, under your `<h1>` add:
  
 `<h2>Learning Reset</h2>`
  
